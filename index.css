@@ -1,3 +1,35 @@
 body {
     margin: 0;
+    background-color: #1C1C1C; 
+}
+
+.container {
+    width: 550px;
+    margin: 50px auto;
+    border: 1px solid black;
+    padding: 115px 52px;
+    background-color:#273549;
+    color:#10B981;
+}
+
+span {
+    color: white;
+    display: block; 
+}
+
+h1 {
+    font-family: Karla, sans-serif;
+    font-weight: 800;
+    size: 40px;
+    line-height: 40px;
+}
+
+p {
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
 }
